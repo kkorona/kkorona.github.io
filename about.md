@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sang Un(Sang Woon) Park
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Senior Student, Dept. of Computer Science & Engineering, Pusan National Univ.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Undergraduate Researcher @ PNU ALDE Lab(ALgorithm & Data Engineering Lab) - Advisor : Hwan Gue Cho
 
+Interested in Web / UI / UX / CHI / Data Engineering / Algorithm
 
-[jekyll-organization]: https://github.com/jekyll
+Making a Research of User Pattern Analysis (Online Streaming Chat Analysis, Keystroke Dynamics)
