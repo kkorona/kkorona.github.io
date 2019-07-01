@@ -17,7 +17,7 @@ title: kkoronaDev
 email: high1uck@pusan.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Web / UI / UX / Data Engineering / Algorithm
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: crax_v
 github_username:  kkorona
